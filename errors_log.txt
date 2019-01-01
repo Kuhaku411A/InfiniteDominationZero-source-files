@@ -1,0 +1,102 @@
+Date: Sat Nov 10 2018 05:39:05 GMT-0500 (Eastern Standard Time)
+Name: Error
+Message: Failed to load: data/Test_Quests.json
+Stack: Error: Failed to load: data/Test_Quests.json
+    at Function.DataManager.checkError (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:172:15)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:97:10)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_CoreEngine.js:1092:49)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_BattleEngineCore.js:1280:48)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_X_AnimatedSVEnemies.js:1801:48)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_WeaponAnimation.js:200:47)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_JobPoints.js:299:47)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_SkillLearnSystem.js:390:48)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_ShopMenuCore.js:268:49)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_EquipCore.js:288:50)
+
+Date: Sat Nov 10 2018 06:55:34 GMT-0500 (Eastern Standard Time)
+Name: Error
+Message: Failed to load: data/Test_Quests.json
+Stack: Error: Failed to load: data/Test_Quests.json
+    at Function.DataManager.checkError (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:172:15)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:97:10)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_CoreEngine.js:1092:49)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_BattleEngineCore.js:1280:48)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_X_AnimatedSVEnemies.js:1801:48)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_WeaponAnimation.js:200:47)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_JobPoints.js:299:47)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_SkillLearnSystem.js:390:48)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_ShopMenuCore.js:268:49)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_EquipCore.js:288:50)
+
+Date: Sat Nov 10 2018 07:54:23 GMT-0500 (Eastern Standard Time)
+Name: undefined
+Message: Uncaught Error: ENOENT: no such file or directory, open 'C:\data\compendium.json'
+Filename: fs.js
+Stack: undefined
+
+Date: Sat Nov 10 2018 07:54:23 GMT-0500 (Eastern Standard Time)
+Name: undefined
+Message: Uncaught Error: ENOENT: no such file or directory, open 'C:\Rem\dictionary\category.json'
+Filename: fs.js
+Stack: undefined
+
+Date: Sat Nov 10 2018 09:13:09 GMT-0500 (Eastern Standard Time)
+Name: Error
+Message: Failed to load: data/Test_Quests.json
+Stack: Error: Failed to load: data/Test_Quests.json
+    at Function.DataManager.checkError (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:172:15)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:97:10)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_CoreEngine.js:1092:49)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_BattleEngineCore.js:1280:48)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_X_AnimatedSVEnemies.js:1801:48)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_WeaponAnimation.js:200:47)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_JobPoints.js:299:47)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_SkillLearnSystem.js:390:48)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_ShopMenuCore.js:268:49)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_EquipCore.js:288:50)
+
+Date: Mon Nov 12 2018 00:39:21 GMT-0500 (Eastern Standard Time)
+Name: TypeError
+Message: Cannot set property 'value' of null
+Stack: TypeError: Cannot set property 'value' of null
+    at Game_Variables.setValue (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/SRD_SuperToolsEngine.js:3037:72)
+    at Scene_Map.Scene_Base.checkGameTimeVariables (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/DKCore_Game_Time.js:2671:28)
+    at Scene_Map.Scene_Base.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/DKCore_Game_Time.js:2697:10)
+    at Scene_Map.Scene_Base.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/SRD_SuperToolsEngine.js:2631:23)
+    at Scene_Map.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:596:33)
+    at Scene_Map.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_CoreEngine.js:1353:32)
+    at Scene_Map.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/DKCore_Game_Time.js:2723:29)
+    at Function.SceneManager.updateScene (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:2024:25)
+    at Function.SceneManager.updateMain (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/TDDP_FluidTimestep.js:108:18)
+    at Function.SceneManager.updateMain (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/SRD_SuperToolsEngine.js:402:29)
+
+Date: Mon Nov 12 2018 10:40:18 GMT-0500 (Eastern Standard Time)
+Name: TypeError
+Message: Cannot read property 'name' of null
+Stack: TypeError: Cannot read property 'name' of null
+    at Function.AudioManager.playBgm (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:1180:17)
+    at Game_System.onAfterLoad (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:239:18)
+    at Scene_Load.terminate (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:1745:21)
+    at Scene_Load.terminate (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_CoreEngine.js:1853:36)
+    at Function.SceneManager.changeScene (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:1998:25)
+    at Function.SceneManager.updateMain (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/TDDP_FluidTimestep.js:107:18)
+    at Function.SceneManager.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/TDDP_FluidTimestep.js:86:18)
+
+Date: Mon Nov 12 2018 15:06:29 GMT-0500 (Eastern Standard Time)
+Name: Error
+Message: Failed to load: data/Test_Quests.json
+Stack: Error: Failed to load: data/Test_Quests.json
+    at Function.DataManager.checkError (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:172:15)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:97:10)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_CoreEngine.js:1092:49)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_CommonEventMenu.js:531:48)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_BattleEngineCore.js:1280:48)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_X_AnimatedSVEnemies.js:1801:48)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_WeaponAnimation.js:200:47)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_SkillLearnSystem.js:390:48)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_JobPoints.js:299:47)
+    at Function.DataManager.isDatabaseLoaded (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_WeaponUnleash.js:293:48)
+
+Date: Mon Nov 12 2018 17:26:04 GMT-0500 (Eastern Standard Time)
+Error: The plugin VE - Reflect Actions must be placed bellow the plugin VE - Basic Module. Open the Plugin Manager and place the plugins in the correct order.
+
